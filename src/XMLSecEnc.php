@@ -1,11 +1,11 @@
 <?php
-namespace RobRichards\XMLSecLibs;
+namespace LKoszel\XMLSecLibs;
 
 use DOMDocument;
 use DOMNode;
 use DOMXPath;
 use Exception;
-use RobRichards\XMLSecLibs\Utils\XPath as XPath;
+use LKoszel\XMLSecLibs\Utils\XPath as XPath;
 
 /**
  * xmlseclibs.php
