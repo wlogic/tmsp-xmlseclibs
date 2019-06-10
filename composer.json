@@ -11,7 +11,7 @@
   "homepage": "https://github.com/wlogic/tmsp-xmlseclibs",
   "autoload": {
     "psr-4": {
-      "Wlogic\\XMLSecLibs\\": "src"
+      "Wlogic\\TmspXMLSecLibs\\": "src"
     }
   },
   "require": {
