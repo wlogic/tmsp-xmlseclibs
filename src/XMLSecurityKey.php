@@ -1,5 +1,5 @@
 <?php
-namespace Wlogic\XMLSecLibs;
+namespace Wlogic\TmspXMLSecLibs;
 
 use DOMElement;
 use Exception;
