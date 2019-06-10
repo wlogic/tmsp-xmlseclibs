@@ -1,5 +1,5 @@
 {
-  "name": "lkoszel/xmlseclibs",
+  "name": "wlogic/tmsp-xmlseclibs",
   "description": "A PHP library for XML Security",
   "license": "BSD-3-Clause",
   "keywords": [
@@ -8,10 +8,10 @@
     "signature",
     "security"
   ],
-  "homepage": "https://github.com/lkoszel/xmlseclibs",
+  "homepage": "https://github.com/wlogic/tmsp-xmlseclibs",
   "autoload": {
     "psr-4": {
-      "LKoszel\\XMLSecLibs\\": "src"
+      "Wlogic\\XMLSecLibs\\": "src"
     }
   },
   "require": {

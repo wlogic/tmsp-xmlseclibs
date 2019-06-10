@@ -1,6 +1,6 @@
 <?php
 
-namespace LKoszel\XMLSecLibs\Utils;
+namespace Wlogic\XMLSecLibs\Utils;
 
 class XPath
 {

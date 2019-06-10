@@ -1,12 +1,12 @@
 <?php
-namespace LKoszel\XMLSecLibs;
+namespace Wlogic\XMLSecLibs;
 
 use DOMDocument;
 use DOMElement;
 use DOMNode;
 use DOMXPath;
 use Exception;
-use LKoszel\XMLSecLibs\Utils\XPath as XPath;
+use Wlogic\XMLSecLibs\Utils\XPath as XPath;
 
 /**
  * xmlseclibs.php
