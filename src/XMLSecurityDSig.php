@@ -6,7 +6,7 @@ use DOMElement;
 use DOMNode;
 use DOMXPath;
 use Exception;
-use Wlogic\XMLSecLibs\Utils\XPath as XPath;
+use Wlogic\TmspXMLSecLibs\Utils\XPath as XPath;
 
 /**
  * xmlseclibs.php
