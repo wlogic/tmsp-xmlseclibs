@@ -10,6 +10,7 @@
   ],
   "homepage": "https://github.com/wlogic/tmsp-xmlseclibs",
   "autoload": {
+    "files": ["xmlseclibs.php"],
     "psr-4": {
       "Wlogic\\TmspXMLSecLibs\\": "src"
     }
